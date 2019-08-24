@@ -1,0 +1,3 @@
+rootProject.name = 'footbal_manager'
+
+include ':app'
